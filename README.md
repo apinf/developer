@@ -2,8 +2,25 @@
 
 From this site you'll find detailed information about our practices. 
 
-## Set up local development version 
+## Platform development
+
+### Understand what you are dealing with
+
+- Architecture
+- Code practices
+
+### Contribution process
+
+### Contributor License Agreement
+
+### Set up local development version 
 Start developing the platform by installing APInf platform. You can do this multiple ways. [Here's more detailed information](https://github.com/apinf/platform/blob/develop/INSTALL.md) how to do it. 
+
+
+
+
+
+
 
 
 ## API development
