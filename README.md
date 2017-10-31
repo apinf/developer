@@ -1,4 +1,4 @@
-## Getting started with APInf Platform development
+## Getting started 
 
 From this site you'll find detailed information about our practices. 
 
