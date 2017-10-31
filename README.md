@@ -2,6 +2,10 @@
 
 From this site you'll find detailed information about our practices. 
 
+## Set up local development version 
+Start developing the platform by installing APInf platform. You can do this multiple ways. Here's more detailed information how to do it (link to installation)
+
+
 ## API development
 
 Our platform contains multiple APIs. What ever can be done from GUI, you can do it with API. Currently we have following APIs: 
