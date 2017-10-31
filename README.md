@@ -52,6 +52,8 @@ We have defined set of rules for API development.
 
 ## UX development
 
+### UX Design Guide
+
 - [UX Design Guide]() 
 
 ## Automated testing
