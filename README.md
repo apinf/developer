@@ -30,7 +30,7 @@ Start developing the platform by installing APInf platform. You can do this mult
 ## Platform API development
 
 Our platform contains multiple APIs. What ever can be done from GUI, you can do it with API. Currently we have following APIs: 
-- Catalog API (link to APInf.io)
+- Catalog API ([Production versio 1](https://apinf.io/apis/apinf-catalog-rest-api-1) - [Next version design](https://apinf.io/apis/apinf-catalog-rest-api-design))
 - Management API (link to APInf.io)
 - Flow API (link to apinf.io)
 
