@@ -24,6 +24,11 @@ If you connect your API to the proxy, you can follow your API traffic and differ
 - [Permission model](https://raw.githubusercontent.com/apinf/docs/master/docs/develop/Architecture/Apinf-permissionsModel.png)
 - [APINf roles](https://github.com/apinf/docs/blob/master/docs/develop/Architecture/User-Roles-in-Apinf.md)
 - Code practices
+
+### Roadmap
+
+APInf roadmap is decided inside the team. Decisions are business driven, but take into account technical requirements and limitations. Our roadmap is "event driven" which means that we pick bigger ICT events as milestones.   
+
 - [Roadmap for development](https://waffle.io/apinf/roadmap)
 
 ### Contribution process
