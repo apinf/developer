@@ -6,6 +6,8 @@ From this site you'll find detailed information about our practices.
 
 APInf platform offers a comprehensive, yet easy to use API management tool. APInf provides simplified workflow for API owners for common API management tasks so you can focus on building your APIs.
 
+![APInf Platform overview](https://raw.githubusercontent.com/apinf/developer/master/apinf-overview.png)
+
 You can publish your API in the APInf catalog without connecting it to a proxy. But connecting the API provides you with the possibility to use traffic management features, authorization and logging. The proxy acts as a façade for your API: the API clients are not accessing your API directly.​ You can manage both REST APIs and Iot APIs (MQTT) with APInf.
 
 Publishing your API in the catalog gives better visibility for your API. The API can be published with one single step: fill in the access URL, name and description and get going! We highly recommend also adding a logo for your API – after all the API should be an easily identifiable product.
