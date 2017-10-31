@@ -1,9 +1,4 @@
----
-title: APInf Platform Developer pages 
-layout: post
----
-
-## APInf Developer pages
+## Getting started with APInf Platform development
 
 From this site you'll find detailed information about our practices. 
 
