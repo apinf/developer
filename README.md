@@ -20,7 +20,7 @@ If you connect your API to the proxy, you can follow your API traffic and differ
 
 ### Understand what you are dealing with
 
-- Architecture
+- [System model](https://raw.githubusercontent.com/apinf/docs/master/docs/develop/Architecture/Apinf-systemModel.png)
 - Code practices
 - [Roadmap for development](https://waffle.io/apinf/roadmap)
 
