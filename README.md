@@ -31,6 +31,10 @@ APInf roadmap is decided inside the team. Decisions are business driven, but tak
 
 - [Roadmap for development](https://waffle.io/apinf/roadmap)
 
+### Licensing policy
+
+We use EUPL license for core components. 
+
 ### Contribution process
 
 ### Contributor License Agreement
