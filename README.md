@@ -32,6 +32,8 @@ Our platform contains multiple APIs. What ever can be done from GUI, you can do 
 - Management API (link to APInf.io)
 - Flow API (link to apinf.io)
 
+Code related to [APIs can be found from here](https://github.com/apinf/platform/tree/develop/apinf_packages/apis)
+
 ### API Design Guide
 We have defined set of rules for API development. 
 - [Read API Design Guide first.](https://apinf.gitbooks.io/api-guidelines/content/)
