@@ -47,6 +47,10 @@ Easiest way to follow development is to look at issues in Waffle. Other option i
 
 For new issues we have template in Github which will guide you to fill in needed information. 
 
+### Automated testing
+
+We use automated testing. This means that you **start developing new features by defining test first**. 
+
 ### Set up local development version 
 Start developing the platform by installing APInf platform. You can do this multiple ways. [Here's more detailed information](https://github.com/apinf/platform/blob/develop/INSTALL.md) how to do it. 
 
@@ -89,6 +93,10 @@ We have defined set of rules for API development.
 
 - [UX Design Guide]() 
 
-## Automated testing
+## APIBot Development
+What is APIBot? 
 
-We use automated testing. This means that you start developing new features by defining test first. 
+## Open API Designer
+What is Open API Designer
+
+
