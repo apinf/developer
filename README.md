@@ -10,6 +10,7 @@ From this site you'll find detailed information about our practices.
 
 - Architecture
 - Code practices
+- [Roadmap for development](https://waffle.io/apinf/roadmap)
 
 ### Contribution process
 
