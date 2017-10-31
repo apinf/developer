@@ -50,6 +50,12 @@ For new issues we have template in Github which will guide you to fill in needed
 ### Set up local development version 
 Start developing the platform by installing APInf platform. You can do this multiple ways. [Here's more detailed information](https://github.com/apinf/platform/blob/develop/INSTALL.md) how to do it. 
 
+### Platform branches
+We have three instances running. Each of them have different purpose. 
+
+- Our production enviroment is available at apinf.io. This is our SaaS version
+- Staging, staging.apinf.io is for maturing the next version before launch to production (see above)
+- Nightly, nightly.apinf.io is our nightly build version of the platform. 
 
 ## Platform API development
 
