@@ -32,6 +32,14 @@ Our platform contains multiple APIs. What ever can be done from GUI, you can do 
 - Management API (link to APInf.io)
 - Flow API (link to apinf.io)
 
+In APInf we use unified process for Platform API development. Platform APIs are non-profit APIs. Our intention is not to charge clients for using them. They are part of the platform.
+
+For each platform API we have two versions:
+- production and
+- design
+
+Production API is the live one and fully functional version. The design has been frozen. It might change, but changes are not backwards breaking. Design version is the next API version (minor/major changes). 
+
 Code related to [APIs can be found from here](https://github.com/apinf/platform/tree/develop/apinf_packages/apis)
 
 ### API Design Guide
