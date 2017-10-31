@@ -1,3 +1,8 @@
+---
+title: APInf Platform Developer pages 
+layout: post
+---
+
 ## APInf Developer pages
 
 From this site you'll find detailed information about our practices. 
