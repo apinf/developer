@@ -4,6 +4,16 @@ From this site you'll find detailed information about our practices.
 
 ## What is APInf Platform? 
 
+APInf platform offers a comprehensive, yet easy to use API management tool. APInf provides simplified workflow for API owners for common API management tasks so you can focus on building your APIs.
+
+You can publish your API in the APInf catalog without connecting it to a proxy. But connecting the API provides you with the possibility to use traffic management features, authorization and logging. The proxy acts as a façade for your API: the API clients are not accessing your API directly.​ You can manage both REST APIs and Iot APIs (MQTT) with APInf.
+
+Publishing your API in the catalog gives better visibility for your API. The API can be published with one single step: fill in the access URL, name and description and get going! We highly recommend also adding a logo for your API – after all the API should be an easily identifiable product.
+
+You can provide an OpenAPI documentation file for your API by uploading a file or providing a link to your file. Good API documentation saves frustration from developers and minimizes support needs from them. They can not only read the document, they can try out the calls in practice.
+
+If you connect your API to the proxy, you can follow your API traffic and different API KPIs in the dashboard. You can monitor API response times, HTTP response types, numbers of users and most frequent users for the selected time frames. This allows you to identify for example your most popular APIs, traffic peaks or performance problems.
+
 ## Platform development
 
 ### Understand what you are dealing with
