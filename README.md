@@ -22,6 +22,7 @@ If you connect your API to the proxy, you can follow your API traffic and differ
 
 - [System model](https://raw.githubusercontent.com/apinf/docs/master/docs/develop/Architecture/Apinf-systemModel.png)
 - [Permission model](https://raw.githubusercontent.com/apinf/docs/master/docs/develop/Architecture/Apinf-permissionsModel.png)
+- [APINf roles](https://github.com/apinf/docs/blob/master/docs/develop/Architecture/User-Roles-in-Apinf.md)
 - Code practices
 - [Roadmap for development](https://waffle.io/apinf/roadmap)
 
