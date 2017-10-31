@@ -16,6 +16,8 @@ From this site you'll find detailed information about our practices.
 ### Issues
 
 Easiest way to follow development is to look at issues in Waffle. Other option is to use Github issues list. 
+- [APInf Platform in Waffle.io](https://waffle.io/apinf/platform)
+- [APInf Platform issues in Github](https://github.com/apinf/platform/issues)
 
 For new issues we have template in Github which will guide you to fill in needed information. 
 
