@@ -29,8 +29,14 @@ Start developing the platform by installing APInf platform. You can do this mult
 
 ## Platform API development
 
-Our platform contains multiple APIs. What ever can be done from GUI, you can do it with API. Currently we have following APIs: 
-- Catalog API ([Production versio 1](https://apinf.io/apis/apinf-catalog-rest-api-1) - [Next version design](https://apinf.io/apis/apinf-catalog-rest-api-design))
+Our platform contains multiple APIs. What ever can be done from GUI, you can do it with API. For each platform API we have two branches:
+- production (with multiple versions) and
+- design (the future version)
+
+Production API is the live one and fully functional version. The design has been frozen. It might change, but changes are not backwards breaking. Design branch is the next API version (minor/major changes). 
+
+Currently we have following APIs: 
+- Catalog API ([Production version 1](https://apinf.io/apis/apinf-catalog-rest-api-1) - [Development branch](https://apinf.io/apis/apinf-catalog-rest-api-design))
 - Management API (link to APInf.io)
 - Flow API (link to apinf.io)
 
@@ -38,11 +44,6 @@ In APInf we use unified process for Platform API development. Platform APIs are 
 
 We use [OpenAPI spec version 2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md) in API design and documentation. 
 
-For each platform API we have two versions:
-- production and
-- design
-
-Production API is the live one and fully functional version. The design has been frozen. It might change, but changes are not backwards breaking. Design version is the next API version (minor/major changes). 
 
 Code related to [APIs can be found from here](https://github.com/apinf/platform/tree/develop/apinf_packages/apis)
 
