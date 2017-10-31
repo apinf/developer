@@ -34,6 +34,8 @@ Our platform contains multiple APIs. What ever can be done from GUI, you can do 
 
 In APInf we use unified process for Platform API development. Platform APIs are non-profit APIs. Our intention is not to charge clients for using them. They are part of the platform.
 
+We use [OpenAPI spec version 2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md) in API design and documentation. 
+
 For each platform API we have two versions:
 - production and
 - design
