@@ -13,14 +13,14 @@ From this site you'll find detailed information about our practices.
 
 ### Contributor License Agreement
 
+### Issues
+
+Easiest way to follow development is to look at issues in Waffle. Other option is to use Github issues list. 
+
+For new issues we have template in Github which will guide you to fill in needed information. 
+
 ### Set up local development version 
 Start developing the platform by installing APInf platform. You can do this multiple ways. [Here's more detailed information](https://github.com/apinf/platform/blob/develop/INSTALL.md) how to do it. 
-
-
-
-
-
-
 
 
 ## API development
