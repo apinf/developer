@@ -52,6 +52,8 @@ We have defined set of rules for API development.
 
 ## UX development
 
+- [UX Design Guide]() 
+
 ## Automated testing
 
 We use automated testing. This means that you start developing new features by defining test first. 
