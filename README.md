@@ -14,7 +14,7 @@ Our platform contains multiple APIs. What ever can be done from GUI, you can do 
 - Flow API (link to apinf.io)
 
 ### API Design Guide
-We have defined set of rules for API development. Read them first. 
+We have defined set of rules for API development. Read them first. https://apinf.gitbooks.io/api-guidelines/content/
 
 
 ## UX development
