@@ -2,6 +2,8 @@
 
 From this site you'll find detailed information about our practices. 
 
+## What is APInf Platform? 
+
 ## Platform development
 
 ### Understand what you are dealing with
