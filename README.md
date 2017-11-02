@@ -60,9 +60,9 @@ Start developing the platform by installing APInf platform. You can do this mult
 ### Platform branches
 We have three instances running. Each of them have different purpose. 
 
-- **Our production enviroment** is available at apinf.io. This is our SaaS version
-- **Staging**, staging.apinf.io is for maturing the next version before launch to production (see above)
-- **Nightly**, nightly.apinf.io is our nightly build version of the platform. 
+- **Our production enviroment** is available at [apinf.io](https://apinf.io) This is our SaaS version
+- **Staging**, [https://staging.apinf.io](https://staging.apinf.io) is for maturing the next version before launch to production (see above)
+- **Nightly**, [https://nightly.apinf.io](https://nightly.apinf.io) is our nightly build version of the platform. 
 
 ## Platform API development
 
