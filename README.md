@@ -4,7 +4,7 @@ From this site you'll find detailed information about our platform development p
 
 **Intended audience is people who develop the platform regardless of are they employees of APInf Oy or community members.**
 
-<div style="background-color:#000; height:5px; width:100%; padding:10px;">fill</div>
+<hr/>
 
 ## What is APInf Platform? 
 
@@ -20,7 +20,9 @@ You can provide an OpenAPI documentation file for your API by uploading a file o
 
 If you connect your API to the proxy, you can follow your API traffic and different API KPIs in the dashboard. You can monitor API response times, HTTP response types, numbers of users and most frequent users for the selected time frames. This allows you to identify for example your most popular APIs, traffic peaks or performance problems.
 
-## Platform development
+<hr/>
+
+## PLATFORM DEVELOPMENT
 
 ### Understand what you are dealing with
 
@@ -65,7 +67,9 @@ We have three instances running. Each of them have different purpose.
 - **Staging**, [https://staging.apinf.io](https://staging.apinf.io) is for maturing the next version before launch to production (see above)
 - **Nightly**, [https://nightly.apinf.io](https://nightly.apinf.io) is our nightly build version of the platform. 
 
-## Platform API development
+<hr/>
+
+## PLATFORM API DEVELOPMENT
 
 Our platform contains multiple APIs. What ever can be done from GUI, you can do it with API. For each platform API we have two branches:
 - production (with multiple versions) and
@@ -91,16 +95,22 @@ We have defined set of rules for API development.
 - [Overall process is good to understand](https://apinf.gitbooks.io/api-guidelines/content/process.html)
 
 
-## UX development
+## UX DEVELOPMENT
 
 ### UX Design Guide
 
 - [UX Design Guide]() 
 
-## APIBot Development
+## APIBOT DEVELOPMENT
 What is APIBot? 
 
-## Open API Designer
+
+### Codebase
+
+### Released version
+
+
+## OPEN API DESIGNER DEVELOPMENT
 What is Open API Designer
 
 
