@@ -4,7 +4,7 @@ From this site you'll find detailed information about our platform development p
 
 **Intended audience is people who develop the platform regardless of are they employees of APInf Oy or community members.**
 
-<div style="background-color:#ddd; height:5px; width:100%; padding:10px;">&nbsp;</div>
+<div style="background-color:#000; height:5px; width:100%; padding:10px;">&nbsp;</div>
 
 ## What is APInf Platform? 
 
