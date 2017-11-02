@@ -2,9 +2,8 @@
 
 From this site you'll find detailed information about our platform development practices. This is not APInf Platform user guide. 
 
-<pre>
-**Intended audience is people who develop the platform regardless of are they employees of APInf Oy or community members.** 
-</pre>
+**Intended audience is people who develop the platform regardless of are they employees of APInf Oy or community members.**
+
 
 ## What is APInf Platform? 
 
