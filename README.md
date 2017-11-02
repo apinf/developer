@@ -4,6 +4,7 @@ From this site you'll find detailed information about our platform development p
 
 **Intended audience is people who develop the platform regardless of are they employees of APInf Oy or community members.**
 
+<hr/>
 
 ## What is APInf Platform? 
 
