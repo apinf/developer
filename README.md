@@ -94,12 +94,15 @@ We have defined set of rules for API development.
 - [Read API Design Guide first.](https://apinf.gitbooks.io/api-guidelines/content/)
 - [Overall process is good to understand](https://apinf.gitbooks.io/api-guidelines/content/process.html)
 
+<hr/>
 
 ## UX DEVELOPMENT
 
 ### UX Design Guide
 
 - [UX Design Guide]() 
+
+<hr/>
 
 ## APIBOT DEVELOPMENT
 What is APIBot? 
@@ -109,6 +112,7 @@ What is APIBot?
 
 ### Released version
 
+<hr/>
 
 ## OPEN API DESIGNER DEVELOPMENT
 What is Open API Designer
