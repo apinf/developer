@@ -77,15 +77,21 @@ Our platform contains multiple APIs. What ever can be done from GUI, you can do 
 
 Production API is the live one and fully functional version. The design has been frozen. It might change, but changes are not backwards breaking. Design branch is the next API version (minor/major changes). 
 
+### Process in a nutshell
+
+![API development process](https://raw.githubusercontent.com/apinf/developer/master/apinf-api-process.png)
+
+Read API Design Guide for details. 
+
+
 ### Currently we have following APIs 
 - **Catalog API** ([Production version 1](https://apinf.io/apis/apinf-catalog-rest-api-1) and [Development branch](https://apinf.io/apis/apinf-catalog-rest-api-design))
 - **Management API** ([Production version 1](https://apinf.io/apis/apinf-management-rest-api))
-- **Flow API** (Development branch)
+- **Analytics API** (Development branch)
 
 In APInf we use unified process for Platform API development. Platform APIs are non-profit APIs. Our intention is not to charge clients for using them. They are part of the platform.
 
 We use [OpenAPI spec version 2.0](https://github.com/OAI/OpenAPI-Specification/blob/master/versions/2.0.md) in API design and documentation. 
-
 
 Code related to [APIs can be found from here](https://github.com/apinf/platform/tree/develop/apinf_packages/apis)
 
