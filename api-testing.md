@@ -49,7 +49,7 @@ Alternatively you can use Newman CLI tool.
 
 ```
 git clone https://github.com/apinf/platform
-cd tests/rest-api-tests/
+cd platform/tests/rest-api-tests/
 ```
 
 **Runs the tests and writes the report to 'catalog-test-results.txt' file.**
