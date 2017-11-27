@@ -52,13 +52,13 @@ git clone https://github.com/apinf/platform
 cd platform/tests/rest-api-tests/
 ```
 
-**Runs the tests and writes the report to 'catalog-test-results.txt' file.**
+**Runs given test collection and writes the report to 'catalog-test-results.txt' file.**
 
 ```
 newman run APIs_OK.postman_collection.json > catalog-test-results.txt
 ```
 
-**Runs the tests and uses environment defined in separate file called 'environment.json'**
+**Runs given test collection and uses environment defined in separate file called 'environment.json'. Prints results to screen.**
 
 ```
 newman run APIs_OK.postman_collection.json -e environment.json
