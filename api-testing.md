@@ -43,24 +43,27 @@ Alternatively you can use Newman CLI tool.
 
 ## Newman - CLI tool
 
-[Newman is CLI interface to Postman](https://github.com/postmanlabs/newman). You can run Postman generated tests from commandline with this tool. Here's a few examples. Start with cloning the platform repository and go to tests folder: 
+[Newman is CLI interface to Postman](https://github.com/postmanlabs/newman). You can run Postman generated tests from commandline with this tool. Here's a few examples. 
+
+**Start with cloning the platform repository and go to tests folder**
 
 ```
 git clone https://github.com/apinf/platform
 cd tests/rest-api-tests/
 ```
 
+**Runs the tests and writes the report to 'catalog-test-results.txt' file. **
+
 ```
 newman run APIs_OK.postman_collection.json > catalog-test-results.txt
 ```
 
-The above runs the tests and writes the report to 'catalog-test-results.txt' file. 
+**Runs the tests and uses environment defined in separate file called 'environment.json'**
 
 ```
 newman run APIs_OK.postman_collection.json -e environment.json
 ```
 
-The above runs the tests and uses environment defined in separate file called 'environment.json'
 
 
 ### Add new test
