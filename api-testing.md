@@ -52,7 +52,7 @@ git clone https://github.com/apinf/platform
 cd tests/rest-api-tests/
 ```
 
-**Runs the tests and writes the report to 'catalog-test-results.txt' file. **
+**Runs the tests and writes the report to 'catalog-test-results.txt' file.**
 
 ```
 newman run APIs_OK.postman_collection.json > catalog-test-results.txt
