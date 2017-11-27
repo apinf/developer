@@ -6,6 +6,9 @@
 
 ### Postman configurations
 
+To run API tests succesfully, you need to set some global and environment variables. What are those ? 
+
+
 ### Use existing tests
 
 Existing tests are in platform repository https://github.com/apinf/platform/tree/develop/tests/rest-api-tests. Each platform API has own set of tests in separate file. 
