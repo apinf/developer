@@ -67,3 +67,10 @@ newman run APIs_OK.postman_collection.json -e environment.json
 
 
 ### Add new test
+
+- Use Postman to create a new test in collection.
+- Create branch for the new test
+- Export (?) collection and replace old test collection with new one.
+- Run the tests locally to vefify that it behaves as expected
+- Commit to develop branch.
+- Make a pull request. 
