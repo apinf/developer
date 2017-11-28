@@ -92,4 +92,4 @@ git add [name_of_your_new_branch]
 git commit -m "Added new test X"
 git push origin [name_of_your_new_branch]
 ```
-- Make a pull request. 
+- Make a pull request in [Github web GUI](https://github.com/apinf/platform). 
