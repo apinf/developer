@@ -66,11 +66,30 @@ newman run APIs_OK.postman_collection.json -e environment.json
 
 
 
-### Add new test (TODO: clarify this to detail level)
+### Add new test with Postman (TODO: clarify this, leave no space for error)
 
-- Use Postman to create a new test in collection.
+- Clone the platform repository if you have not done so already
+
+```
+git clone https://github.com/apinf/platform
+cd platform/tests/rest-api-tests/
+```
+
 - Create branch for the new test
-- Export (?) collection and replace old test collection with new one.
-- Run the tests locally to vefify that it behaves as expected
-- Commit to branch you created.
+
+```
+git checkout -b [name_of_your_new_branch]
+```
+
+- Load existing tests to Postman. 
+- Create new test
+- Export collection and replace old test collection with new one.
+- Run the tests locally to vefify that it behaves as expected. Either in Postman Runner or newman
+- Commit to branch you created and push to github.
+
+```
+git add [name_of_your_new_branch]
+git commit -m "Added new test X"
+git push origin [name_of_your_new_branch]
+```
 - Make a pull request. 
