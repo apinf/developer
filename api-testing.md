@@ -88,7 +88,7 @@ git checkout -b [name_of_your_new_branch]
 - Commit to branch you created and push to github.
 
 ```
-git add [name_of_your_new_branch]
+git add [test collention file which was altered]
 git commit -m "Added new test X"
 git push origin [name_of_your_new_branch]
 ```
